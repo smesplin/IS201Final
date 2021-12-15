@@ -1,0 +1,27 @@
+/* Saul Esplin DEC 13, 2021 */
+
+.bakod {
+    color: pink;
+    font-style: normal;
+}
+.bata {
+    text-decoration: underline;
+}
+.textalign {
+    text-align: center;
+}
+.textnormal {
+    text-align: left;
+}
+.buto {
+    color: lavender;
+}
+.pink {
+    color: lightpink
+}
+.blue {
+    color: lightskyblue
+}
+.yellow {
+    color: rgb(252, 252, 110);
+}
